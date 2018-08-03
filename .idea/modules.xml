@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SpringMVCTemplate-master-e1507e683132a5e3beadb0e2643d9ba79d4eedff/SpringMVCTemplate.iml" filepath="$PROJECT_DIR$/SpringMVCTemplate-master-e1507e683132a5e3beadb0e2643d9ba79d4eedff/SpringMVCTemplate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SpringMVCTemplate-master-e1507e683132a5e3beadb0e2643d9ba79d4eedff.iml" filepath="$PROJECT_DIR$/.idea/SpringMVCTemplate-master-e1507e683132a5e3beadb0e2643d9ba79d4eedff.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringMVCTemplate-master-e1507e683132a5e3beadb0e2643d9ba79d4eedff/dao/dao.iml" filepath="$PROJECT_DIR$/SpringMVCTemplate-master-e1507e683132a5e3beadb0e2643d9ba79d4eedff/dao/dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringMVCTemplate-master-e1507e683132a5e3beadb0e2643d9ba79d4eedff/domain/domain.iml" filepath="$PROJECT_DIR$/SpringMVCTemplate-master-e1507e683132a5e3beadb0e2643d9ba79d4eedff/domain/domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringMVCTemplate-master-e1507e683132a5e3beadb0e2643d9ba79d4eedff/service/service.iml" filepath="$PROJECT_DIR$/SpringMVCTemplate-master-e1507e683132a5e3beadb0e2643d9ba79d4eedff/service/service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringMVCTemplate-master-e1507e683132a5e3beadb0e2643d9ba79d4eedff/web/web.iml" filepath="$PROJECT_DIR$/SpringMVCTemplate-master-e1507e683132a5e3beadb0e2643d9ba79d4eedff/web/web.iml" />
+    </modules>
+  </component>
+</project>

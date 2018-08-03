@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="web:war">
+    <output-path>$PROJECT_DIR$/SpringMVCTemplate-master-e1507e683132a5e3beadb0e2643d9ba79d4eedff/web/target</output-path>
+    <root id="archive" name="SpringMVCTemplate.war">
+      <element id="artifact" artifact-name="web:war exploded" />
+    </root>
+  </artifact>
+</component>
